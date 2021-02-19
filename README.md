@@ -6,7 +6,7 @@ This repository contains custom code used for single cell RNA-sequencing analysi
 #
 ## Data Availability
 
-The RNA-Seq data discussed in this publication have been deposited in NCBI’s Gene Expression Omnibus and are accessible through GEO Series accession number GSE131473. The scRNA-seq data have been deposited in CReSCENT (https://crescent.cloud/; CRES-P22) and Processed data is uploaded on BROAD institute site https://singlecell.broadinstitute.org/single_cell/study/SCP840. Source data are provided with the publication. 
+The RNA-Seq data discussed in this publication have been deposited in NCBI’s Gene Expression Omnibus and are accessible through GEO Series accession number GSE131473. The scRNA-seq data have been deposited in CReSCENT (https://crescent.cloud/; CRES-P22) and processed data is uploaded on Broad Institute Single Cell Portal https://singlecell.broadinstitute.org/single_cell/study/SCP840. Source data are provided alongside the publication. 
 
 #
 ## Contact Information
